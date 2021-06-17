@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: url("../img/bgc.png");
+    font-family: 'Roboto', sans-serif;
+    color: #fff;
+    height: 100%;
+    width: 100%;
+}
+ul, li {
+    display: block;
+}
+.header {
+    background: url("../img/background.jpg") no-repeat;
+    background-size: auto;
+    font-size: 16px;
+}
+nav {
+    display: flex;
+    
+}
+nav a{
+    text-decoration: none;
+    color: #fff;
+}
+nav ul {
+    display: flex;
+}
+nav li {
+    padding: 56px;
+}
+.button {
+    width: 183px;
+    height: 44px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 30px;
+    background: linear-gradient(94.26deg, #C89AFC 9.51%, #7C6AFA 90.23%);
+    border-radius: 50px;
+    margin-left: 300px;
+    margin-top: 38px;
+}
+.logo {
+    margin-left: 40px;
+    
+}
+.contacts {
+
+}
