@@ -264,3 +264,48 @@ nav li {
     text-align: center;
     margin-right: 82px;
 }
+.partners {
+    font-weight: bold;
+    font-size: 48px;
+    display: flex;
+    align-items: center;
+    margin-left: 293px;
+    margin-top: 231px;
+}
+.ellipse2   {
+    height: 80px;
+    margin-right: 51.93px;
+}
+.app {
+    width: 1296px;
+    height: 300px;
+    background: #ffffff50;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap:1px;
+    margin-left: 290px;
+    margin-top: 112px;
+}
+.item {
+    background: url("../img/bgc.png");
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .item img {
+    width: 50%;
+    height: 50%;
+  }
+  .top-row {
+    border-top: 0;
+  }
+  .bottom-row {
+    border-bottom: 0;
+  }
+  
+  .left-corner {
+    border-left: 0;
+  }
+  .right-corner {
+    border-right: 0;
+  }
