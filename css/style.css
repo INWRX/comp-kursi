@@ -227,3 +227,40 @@ nav li {
     height: 88px;
     margin-right: 18px;
 }
+.profession {
+    font-weight: bold;
+    font-size: 48px;
+    margin-left: 555px;
+    margin-top: 200px;
+}
+.icons {
+    margin-left: 470px;
+    margin-top: 120px;
+}
+.icon {
+    margin-right: 340px;
+}
+.icons-title {
+    display: flex;
+    margin-left: 312px;
+}
+.icons-title p {
+    width: 416px;
+    height: 68px;
+    text-align: center;
+    margin-right: 30px;
+    font-size: 24px;
+    font-weight: 500;
+}
+.icons-disc {
+    display: flex;
+    margin-left: 341px;
+}
+.icons-disc p {
+    width: 358px;
+    height: 104px;
+    font-size: 16px;
+    opacity: 0.8;
+    text-align: center;
+    margin-right: 82px;
+}
