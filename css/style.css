@@ -18,6 +18,7 @@ ul, li {
 nav {
     display: flex;
     
+    
 }
 nav a{
     text-decoration: none;
@@ -25,9 +26,10 @@ nav a{
 }
 nav ul {
     display: flex;
+    margin-top: 48px;
 }
 nav li {
-    padding: 56px;
+    padding-right: 56px;
 }
 .button {
     width: 183px;
@@ -39,13 +41,96 @@ nav li {
     padding: 10px 30px;
     background: linear-gradient(94.26deg, #C89AFC 9.51%, #7C6AFA 90.23%);
     border-radius: 50px;
-    margin-left: 300px;
-    margin-top: 38px;
-}
-.logo {
-    margin-left: 40px;
+    margin-top: 20px;
     
 }
+.logo {
+    margin-left: 80px;
+    margin-right: 466px;
+    margin-top: 40px;
+}
 .contacts {
-
+    margin-right: 214px;
+}
+.content p {
+    font-weight: bold;
+    font-size: 64px;
+    margin-top: 198px;
+    margin-left: 312px;
+}
+.box {
+    display: flex;
+    margin-left: 312px;
+}
+.box ul {
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    margin: 0;
+}
+.box-item {
+    width: 102px;
+    height: 112px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 30px;
+    background: #121212;
+    margin-right: 30px;
+}
+.numbers {
+    font-weight: bold;
+    font-size: 36px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 0px;
+}
+.days {
+    font-size: 16px;
+    opacity: 0.4;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 0px 0px;
+}
+.main-foot {
+    background: #121212;
+    margin-top: 160px;
+    height: 130px;
+    display: flex;
+    align-items: center;
+}
+.button-curse {
+    width: 169px;
+    height: 44px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 30px;
+    background: linear-gradient(94.78deg, #DF5950 11.19%, #451046 93.72%);
+    border-radius: 50px;
+    text-decoration: none;
+    color: #fff;
+    margin-left: 312px;
+    margin-right: 65px;
+}
+.main-foot ul {
+    
+}
+.opacity {
+    opacity: 0.4;
+}
+.bold {
+    font-weight: bold;
+}
+.bar-color {
+    width: 440px;
+    height: 6px;
+    background: linear-gradient(94.78deg, #DF5950 11.19%, #451046 93.72%);
+}
+.mt {
+    margin-top: 10px;
 }
