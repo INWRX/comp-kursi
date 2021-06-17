@@ -131,3 +131,99 @@ nav li {
 .mt {
     margin-top: 10px;
 }
+.employment {
+    margin-left: 312px;
+    margin-top: 200px;
+    display: flex;
+}
+.frame-emplo {
+    display: flex;
+    align-items: center;
+}
+.frame {
+   position: absolute;
+}
+.comp {
+    position: relative;
+    margin-top: 96px;
+    margin-left: 40px;
+}
+.subs-employment {
+    width: 636px;
+    margin-left: 134px;
+    margin-top: 69px;
+}
+.subs-bold {
+    font-weight: bold;
+    font-size: 48px;
+    margin-bottom: 45px;
+}
+.fast-start {
+    display: flex;
+    align-items: center;
+    margin-left: 324.22px;
+    font-weight: bold;
+    font-size: 48px;
+    margin-top: 180px;
+}
+.ellipse {
+    height: 80px;
+    margin-right: 20px;
+}
+.disc-first-start {
+    width: 411px;
+    height: 52px;
+    opacity: 0.5;
+    margin-left: 317px;
+}
+.graphs ul {
+    font-weight: bold;
+    font-size: 36px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 1315px;
+    margin-left: 150px;
+    margin-top: 80px;
+}
+.graph-color {
+    display: flex;
+    margin-left: 312px;
+}
+.graph-one {
+    width: 324px;
+    height: 80px;
+    background: linear-gradient(94.26deg, #C89AFC 9.51%, #7C6AFA 90.23%);
+}
+.graph-two {
+    width: 324px;
+    height: 60px;
+    background: linear-gradient(94.26deg, #C89AFC 9.51%, #7C6AFA 90.23%);
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+    margin-top: 13px;
+}
+.graph-three {
+    width: 324px;
+    height: 30px;
+    background: linear-gradient(94.26deg, #C89AFC 9.51%, #7C6AFA 90.23%);
+    margin-top: 26px;
+}
+.graph-results {
+    width: 324px;
+    height: 10px;
+    background: linear-gradient(94.26deg, #C89AFC 9.51%, #7C6AFA 90.23%);
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+    margin-top: 36px;
+}
+.graphs-disc {
+    display: flex;
+    font-size: 14px;
+    opacity: 0.5;
+    margin-left: 312px;
+    margin-top: 35px;
+}
+.graph-item {
+    width: 306px;
+    height: 88px;
+    margin-right: 18px;
+}
