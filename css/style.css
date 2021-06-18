@@ -309,3 +309,93 @@ nav li {
   .right-corner {
     border-right: 0;
   }
+.ellipse3 {
+    display: flex;
+    justify-content: center;
+    margin-top: 243.5px;
+}
+.science {
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 48px;
+}
+.disc-science {
+    font-size: 16px;
+    opacity: 0.5;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    line-height: 1.5;
+}
+.tree {
+    display: flex;
+    padding: 0;
+    margin: 0;
+    margin-top: 80px;
+}
+.tree-items {
+    display: flex;
+    height: 100px;
+    background-color: red;
+}
+.tree-items-right {
+    display: flex;
+    height: 100px;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: center;
+}
+.tree-item-left li {
+    width: 228px;
+    height: 40px;
+    display: flex;
+    flex-direction: row-reverse;
+    margin-right: 60px;
+    margin-left: 625px;
+    text-align: right;
+    background-color: red;
+}
+.tree-item-right li {
+    width: 228px;
+    height: 40px;
+    display: flex;
+    text-align: left;
+    background-color: red;
+    margin-left: 20px;
+}
+.tree-graph {
+    width: 6px;
+    height: 100px;
+    background: linear-gradient(94.26deg, #C89AFC 9.51%, #7C6AFA 90.23%);
+    margin-left: 970px;
+}
+.tree-graph-right {
+    width: 6px;
+    height: 100px;
+    background: linear-gradient(94.26deg, #C89AFC 9.51%, #7C6AFA 90.23%);
+    margin-left: 777px;
+}
+.stick-left {
+    width: 40px;
+    height: 0px;
+    opacity: 0.3;
+    border: 1px solid #FFFFFF;
+    transform: rotate(180deg);
+    margin-left: 910px;
+}
+.stick-right {
+    width: 40px;
+    height: 0px;
+    opacity: 0.3;
+    border: 1px solid #FFFFFF;
+    flex-direction: row-reverse;
+    margin-right: 720px;
+}
+.week {
+    font-size: 14px;
+    opacity: 0.5;
+}
+.tree-bold {
+    font-size: 18px;
+}
